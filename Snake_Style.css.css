@@ -1,0 +1,73 @@
+canvas {
+   
+    border: 2px solid black;
+}
+body{background-image: url('https://images.wallpaperscraft.com/image/forest_trees_fog_110485_1920x1080.jpg');
+
+}
+table{
+   
+    margin: auto;
+    display: block;
+    
+}
+#snakeboard {
+    margin: auto;
+    display: block;
+   
+  }
+  #score {
+    text-align: center;
+    font-size: 50px;
+    color:red;
+  }
+  #leírás
+  {
+      text-align:center;
+      width:400px;
+    height:400px;
+  }
+  th{
+    text-align:center;
+     
+  }
+  tr{
+    text-align:center;
+    border:2px solid black;
+    
+  }
+  #leírás
+  {
+    background-image: url('https://files.utilitylog.com/img/Snake-game-on-Google.png');
+  }
+  #minden
+  {
+    display: flex;
+  justify-content: center;
+  }
+  #scorelist
+  {
+    width:400px;
+    height:400px;
+    background-color: white;
+    border:2px solid black;
+  }
+ img{
+    width:400px;
+    height:175px;
+
+  }
+  #pictab
+  {
+    width:400px;
+    height:200px;
+  }
+  #bott
+  {
+    margin: auto;
+    display:center; 
+  }
+  #ectab
+  {
+    text-align:center;
+  }
